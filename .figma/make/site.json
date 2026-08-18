@@ -1,0 +1,11 @@
+{
+  "title": "aura '26 showcase",
+  "description": "Experience AURA '26, a premium digital platform for a college cultural festival showcasing events, artists, and creativity in a sophisticated, artistic design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
